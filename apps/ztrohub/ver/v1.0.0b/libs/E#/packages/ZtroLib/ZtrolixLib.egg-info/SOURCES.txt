@@ -1,0 +1,8 @@
+Licence
+README.md
+ZtrolixLib
+setup.py
+ZtrolixLib.egg-info/PKG-INFO
+ZtrolixLib.egg-info/SOURCES.txt
+ZtrolixLib.egg-info/dependency_links.txt
+ZtrolixLib.egg-info/top_level.txt
