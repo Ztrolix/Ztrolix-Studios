@@ -18,7 +18,6 @@
     https://sites.google.com/view/ztrolix
 #### [Zrolix Beta](https://sites.google.com/view/ztrolix-beta)
     https://sites.google.com/view/ztrolix-beta
-> Shutdown Temporarily
 #### [Ztrolix Github Pages](https://ztrolix.github.io/Ztrolix)
     https://ztrolix.github.io/Ztrolix
 > Not Yet Released
