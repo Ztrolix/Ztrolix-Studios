@@ -19,7 +19,7 @@
 #### [Zrolix Beta](https://sites.google.com/view/ztrolix-beta)
     https://sites.google.com/view/ztrolix-beta
 #### [Ztrolix Github Pages](https://ztrolix.github.io/Ztrolix)
-    https://ztrolix.github.io/Ztrolix
+    https://ztrolix.github.io/Ztrolix-Studios/
 > Not Yet Released
 
 ### Apps
@@ -29,3 +29,4 @@
 - Circle Box
 - Endorlife
 - Alterland
+- LazerZ
