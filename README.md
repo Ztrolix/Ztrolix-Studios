@@ -23,6 +23,7 @@
 
 ### Apps
 
+- [E25](https://github.com/Ztrolix/E25)
 - Evo Golf
 - Skate Land
 - Circle Box
